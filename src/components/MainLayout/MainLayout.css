@@ -1,0 +1,15 @@
+.leftPane {
+    width: 30%;
+    background: #eee;
+    padding: 1em;
+    margin: 1em;
+}
+.rightPane {
+    width: 70%;
+    background: gray;
+    padding: 1em;
+    margin: 1em;
+}
+.container {
+    display: flex;
+}
